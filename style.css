@@ -1,0 +1,209 @@
+html {
+    margin: 0px
+}
+
+body {
+    margin: 0px;
+    background-color: #2F1893;
+    font-family: DM Sans;
+}
+
+.container {
+    width: 90vw;
+    height: 70vh;
+    background-color: #2F1893;
+    display: flex;
+}
+
+.header {
+    width: 70vw;
+    height: 2.5rem;
+    display: flex;
+    justify-content: space-between;
+    margin: 2rem 0rem 0rem 15rem;
+
+}
+
+.left-header {
+    color: #FFF;
+    align-items: center;
+    font-size: 1.5rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: -0.01831rem;
+    padding-top: 10px;
+}
+
+.right-header {
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+
+.Overview {
+    color: #FFF;
+    font-size: 1.125rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.625rem;
+    opacity: 0.3;
+}
+
+.white {
+    color: #FFF;
+    font-size: 1.125rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.625rem;
+}
+
+.purchase {
+    width: 7.5rem;
+    height: 2rem;
+    border-radius: 6.25rem;
+    color: #fff;
+    background: #E93A7D;
+    padding: 10px 5px 0px 0px;
+    margin: 0rem 0rem 0rem 2rem
+}
+
+.left-container {
+    width: 35vw;
+    height: auto;
+    margin: 8rem 0rem 0rem 15rem;
+}
+
+.up-container {
+    width: 26.5vw;
+    height: auto;
+    color: #FFF;
+    font-size: 3.625rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 4.375rem;
+    letter-spacing: -0.0625rem;
+}
+
+.down-container {
+    width: 22.6875vw;
+    color: #FFF;
+    font-size: 1.375rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 2rem;
+    margin-top: 3rem;
+}
+
+.learn-more {
+    width: 9.8125rem;
+    height: 3.125rem;
+    color: #FFF;
+    font-size: 1.375rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 2rem;
+    background: #E93A7D;
+    border-radius: 6.25rem;
+    margin-top: 3rem;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.right-container {
+    width: 35vw;
+    height: auto;
+    border: 1px solid black;
+    margin: 3.4rem 0rem 0rem 0rem;
+    height: 37.5rem;
+    border-radius: 0.625rem;
+    background:  #FFF;
+}
+
+.sign-up {
+    color:  #1E0E62;
+    text-align: center;
+    font-size: 2.625rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 3.25rem;
+    letter-spacing: -0.025rem;
+    text-align: center;
+    margin: 2rem 0rem 0rem 2rem;
+}
+
+.placeholder {
+    width: 20.625vw;
+    height: 3.125rem;
+    color:  rgba(21, 20, 57, 0.40);
+    font-size: 1.125rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.625rem;
+    border-radius: 6.25rem;
+    border: 2px solid #EBEAED;
+    align-items: center;
+    padding: 0px 20px;
+    margin: 2rem 0rem 0rem 6rem;
+}
+
+.terms {
+    color:  rgba(21, 20, 57, 0.40);
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.625rem;
+    margin: -2rem 0rem 0rem 9rem;
+}
+
+.right-container img {
+    margin: 2rem 0rem 0rem 6.5rem;
+}
+
+.sign-in {
+    width: 20.625vw;
+    height: 3.125rem;
+    border-radius: 6.25rem;
+    background:  #482BE7;
+    color:  #FFF;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 1.125rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.625rem;
+    margin: 2rem 0rem 0rem 7rem;
+}
+
+#or {
+    margin: 0.8rem 0rem 0rem 17rem;
+}
+
+#acc {
+    margin: 0.8rem 0rem 0rem 8.5rem;
+}
+
+.lvt {
+    width: 20.625vw;
+    height: 3.125rem;
+    border-radius: 6.25rem;
+    background: #1DA1F2;
+    color: #FFF;
+    text-align: center;
+    font-size: 1.125rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.625rem;
+    padding-top: 20px;
+    margin: 0.8rem 0rem 0rem 7rem;
+}
+
+
+.signIn {
+    color:  #25DAC5;
+    font-size: 1.125rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.75rem;
+    margin: -1.7rem 0rem 0rem 19.2rem;
+}
